@@ -1,3 +1,38 @@
 body{
     background-color: lightgray;
 }
+
+
+.cyrus {
+background-color: aqua;
+}
+.cyrus h3{
+font-size: 22px;
+color:yellow;
+}
+.cyrus h4{
+    font-size: 16;
+    color:blueviolet;
+}
+.cyrus ul{
+    font-size: 14;
+    background-color: red;
+}
+.cyrus{
+    border: 4px solid black;
+    width: 425px;
+
+.Ethan{
+    float: left;
+    position: relative;
+    width: 400px;
+    margin: 0 .5em 2.0em 0.5em;
+    padding: 1.0em;
+    border-radius: 0.3em;
+    
+}
+
+.Hayden{
+    color:lime;
+    background-color: black;
+}
