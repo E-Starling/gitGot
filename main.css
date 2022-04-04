@@ -1,8 +1,18 @@
 body{
     background-color: lightgray;
 }
+
+.Ethan{
+    float: left;
+    position: relative;
+    width: 400px;
+    margin: 0 .5em 2.0em 0.5em;
+    padding: 1.0em;
+    border-radius: 0.3em;
+    
+}
+
 .Hayden{
     color:lime;
     background-color: black;
 }
-
